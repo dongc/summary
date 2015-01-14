@@ -1,0 +1,1 @@
+echo input param: %1 %2
